@@ -1,0 +1,9 @@
+a=10
+b=20.8
+c="peter"
+print(a)
+print(type(a))
+print(b)
+print(type(b))
+print(c)
+print(type(c))
